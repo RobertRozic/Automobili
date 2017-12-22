@@ -10,16 +10,20 @@ html, body {
 }
 
 #myNavbar{
+  
   min-height: 60px;
   background: transparent;
   padding: 0!important;
   transition: .5s ease;
+
+
 }
 
 
 @media (min-width: 768px){
   #myNavbar {
-    background: transparent;
+    background: linear-gradient(to right, transparent , rgba(0, 0, 0, 0.3));
+
   }
 }
 
