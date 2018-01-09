@@ -24,22 +24,21 @@
           <li class="nav-item option"><a class="nav-link" href="#home">Naslovnica</a></li>
           <li class="nav-item option"><a class="nav-link" href="#about">O nama</a></li>
           <li class="nav-item option"><a class="nav-link" href="#contact">Kontakt</a></li>
+          <li class="nav-item option"><a class="nav-link" href="./login.php">Prijava</a></li>
         </ul>
       </div>
     </nav>
     <div class="container-fluid">
 
       <section id="home" class="row d-flex flex-column justify-content-center align-items-center">
-        <h1 class="text-center">Automobili</h1>
-        <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.</p>
-        <a href="app/public/index.php"><button type="button" class="start" name="button">Započni</button></a>
+        <h1 class="text-center">RoRaOs.ba</h1>
+        <p class="text-center">Mi Vas pokrećemo!</p>
+        <a href="app/public/index.php"><button type="button" class="start" name="button">Registracija</button></a>
       </section>
 
       <section id="about">
         <h2 class="text-center">O nama</h2>
-        <p class="text-center">Lorem ipsum dolor sit amet, no sale graeci quo, ullum movet civibus ex cum, feugiat utroque incorrupte ei vis. His ei fierent dissentiunt.
-          Unum nostrud sit et, solet accumsan vituperatoribus quo no. Mutat laboramus expetendis vel ea, pri id vocibus assueverit cotidieque.</p>
+        <p class="text-center">Povezujemo Vas s drugim ljudima i njihovim automobilima. Bilo kada i bilo gdje Vam dajemo mogućnost da iznajmite automobil drugih korisnika ili pak da njima iznajmite svoj i tako zaradite nešto dodatnog novca!</p>
         <div class="columns row">
           <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
             <i class="fa fa-3x fa-car about_icon"></i>
@@ -53,12 +52,11 @@
           </div>
           <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
             <i class="fa fa-3x fa-list about_icon"></i>
-            <p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-                aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-                voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-                Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+            <p class="text-justify">
+			<h2>F.A.Q.</h2>
+				<ul>
+					<li>Kako se mogu prijavit na vašu stranicu?</li>
+				<ul>
               </p>
           </div>
           <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
