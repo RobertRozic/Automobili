@@ -42,13 +42,7 @@
         <div class="columns row">
           <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
             <i class="fa fa-3x fa-car about_icon"></i>
-            <p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-                  aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-                  ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-                  voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-                  Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-            </p>
+            <p class="text-justify">Na našoj stranici će te pronaći raznovrstan izbor automobila koje u svakom trenutku mođete iznajmiti i koristiti. Isto tako, omogućili smo i Vama da vlastiti automobil iznajmite drugima u vrijeme kada ga ne koristite i tako profitirate. Izbor automobila seže od malih gradskih auta, preko terenaca, do luksuznih limuzina. Povezujemo i pokrećemo ljude na vrlo jednostavan i bezbolan način. U samo nekoliko klikova i par unešenih podataka možete postati koristnik naših usluga!
           </div>
           <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
             <i class="fa fa-3x fa-list about_icon"></i>
@@ -56,17 +50,20 @@
 			<h2>F.A.Q.</h2>
 				<ul>
 					<li>Kako se mogu prijavit na vašu stranicu?</li>
+					<li>Vrlo jednostavno. Gumb za prijavu vas čeka na samoj naslovnici. Kroz daljnji proces registracije ćemo vas postepeno voditi nakon što ga kliknete!</li>
+					<br/>
+					<li>Koliko će me registracija i korištenje vaših usluga koštati?</li>
+					<li>Sve naše usluge su potpuno besplatne za korisnike!</li>
+					<br/>
+					<li>Čini se jednostavno. Je li par klikova stvarno sve što mi je potrebno?</li>
+					<li>Naravno, u samo 10 minuta možete početi koristiti našu stranicu. Iznajmiti vozila od drugih, i iznajmljivati Vaše vozilo drugima!</li>
+					<br/>
 				<ul>
               </p>
           </div>
           <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
             <i class="fa fa-3x fa-usd about_icon"></i>
-            <p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-                aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-                voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-                Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+            <p class="text-justify">Nema potrebe da se brinete za Vaš novac! Plaćanje dogovarate s osobom kod koje automobil iznajmljujete. Tako ste sigurni da Vaš novac nitko neće uzeti preko interneta. Mi Vam dajemo račun i osiguranje u online formatu, te isti taj račun šaljemo drugoj strani. Na taj način ste osigurani da je cijena koju vidite na našoj stranici ona koju će te zapravo i platiti!
               </p>
           </div>
         </div>
